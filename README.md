@@ -10,7 +10,7 @@ ________________________________________________________________________________
 =================================================================================================
 CHANGELOG:
 (* means finished ! means nearly finished !! Means unfinished !!! means not started)
-* Added Ruby Gem
+* Added Ruby Gem 
 ! Added Ruby Ore & Generation (randomly spawns 2 per chunk, below lvl 25 in veins of up to 8)
 * Added Ruby Tools
 ! Added Ruby Armor
